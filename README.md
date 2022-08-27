@@ -23,9 +23,21 @@ Utilize broad military and civilian work histories, diverse graduate and profess
 * Github: @CaptainDax        https://github.com/CaptainDax
 * Captain Dax Webpage:       https://sites.google.com/view/captaindaxhomepage/home   
 
+## EDUCATION
+
+### **PhD – Research Psychology (ABD)** 
+* Northcentral University, La Jolla, CA, Feb 2021, GPA 3.30
+* Dissertation:  Authentic and Transformational Leadership in the USMC (not finished)
+
+### **MBA – Dual emphases in Management Information Systems and Finance** 
+* Bellevue University, Bellevue, NE, August 2007, GPA 3.35 
+
+### **BA – Dual majors in Philosophy and Political Science** 
+* Concordia College, Moorhead, MN, May 2005, GPA 3.21 
+
 ## EXPERIENCE
 
-### **Transformational Leader**
+### **Transformational Leader**:
 * Point 1:  •	Primary Communications Advisor for 60 Marines and 560 Georgian infantry soldiers.
 * Point 2:  Executive Officer
 * Point 3:  Foreign Liaison Advisor
@@ -81,11 +93,24 @@ TRADITIONAL RESUME
 
 ## WORK HISTORY
 
+### **Systems Engineer – Cloud Focused – Student**,				July 2022-Nov 2022
+#### Microsoft Software and Systems Academy					Online
+•	Intense, full-time, professional study to design secure Microsoft cloud solutions on Azure and Office 365 platforms.  Performed support and administration for computer systems.  
+•	Provided technical assistance to fellow students by leading study group sessions and creating training resources.
+•	Evaluated, installed, and new cloud technologies, system upgrades, and enhancements.
+•	Managed and performed technical related tasks including configuring networking for on premises and cloud server environments.  
+
+### College Adjunct Professor, College of Science and Technology		Mar 2022 – Present
+#### Bellevue University								Online
+•	2x online classes:  Computer Info Science 212-Communicating in a Digital World.  
+•	Evaluated new technologies to meet business requirements and enhance business processes.
+•	Conducted research project identifying online teaching best-practices (pending publication).
+
 ### **Company Commander, Captain**,	July 2020 – Nov 2021
 #### Company B, Headquarters & Support Battalion, Marine Corps Installations East, Camp Lejeune
 * Transformational Leader:  I implemented a leadership development culture for 500 Marines and Sailors across 20 sections in one of the largest companies in the Marine Corps, including executing a marketing and mentorship campaign, coordinating over 50 leadership development events (i.e. leadership meals, sports, volunteer events, promotions, retirements, and ceremonies), hosting a dozen resident leadership training courses, and revitalizing the martial arts program aboard base.
 * [>> Captain Dax’ Veteran’s Day Message <<](https://lnkd.in/enwqznUM)
-* [>> Captain Dax’ Marine Corps Birthday Message - at :37 seconds <<](https://lnkd.in/eSFNzJ4S)
+* [>> Captain Dax’ Marine Corps Birthday Message - at :27 seconds <<](https://lnkd.in/eSFNzJ4S)
 
 ### **Current Operations Officer, Captain**, July 2019-July 2020
 #### Marine Corps Installations East, Camp Lejeune Marine Base & New River Air Station, NC
@@ -107,22 +132,71 @@ TRADITIONAL RESUME
 * Network Engineer:  I was personally responsible for 24/7 network connectivity to units in the field via numerous satellite transmissions, multi-channel radio atop 110 foot antennas, and existing fiber WAN connections over IPSec and DMVPN multi-site tunnel connections achieving confidentiality, redundancy, and high network availability.
 * Cybersecurity:  1) Implemented physical access control to the NOC building, 2) Enabled CAC access in the field through the use of Active Directory access control policies, 3) Provided STIG computer images to users for system hardening, 4) Monitored network health with SNMP traps and SolarWinds, and 5) Ran regular security scans to ensure compliance and improve overall NOC security posture.
 * IT Project Management:  I created and reviewed communication plans for 8 field exercises including physically hosting outside units for strapping exercises, initial installation, technical support throughout the operation, and systematic deinstallation resulting in successful training of over 1,000 Communications Marines and enhanced communications capabilities for a Logistics organization of 8,000 Marines and Sailors.
+ 
+### **Communications Liaison Advisor, First Lieutenant**,			July 2017 – Dec 2018
+#### Georgia Liaison Team-7, Tbilisi, Georgia, Hohlenfels, Germany, & Bagram AFB, Afghanistan
+•	Primary Communications Advisor for 60 Marines and 560 Georgian infantry soldiers.
+•	Conducted monthly equipment inventories for 491 principal end items across 3 entry-control points, over 50 security towers along the perimeter for 22 sq miles of base, including 3 Combat Operation Centers, multiple retransmission sites, and redundant communications for 20 tactical vehicles.  Increased capabilities by installing 89 networked assets across base. 
+•	Led the cryptographic key management program for five incident-free months.
+•	Provided 24/7 service for communication issues by processing 122 maintenance requests, submitting 467 Remedy trouble tickets, and creating 267 user accounts. 
+•	Coordinated internal and external resources in the installation and management of the first Georgian morale wireless internet for six billeting locations.
 
+### **Cyber Platoon Commander and Officer Student, Second Lieutenant**,	Jan 2015 – July 2017
+#### Communications Company, Camp Lejeune, NC.  Quantico, VA
+•	Led 41 Marines through the planning and installation of cyber networks for 4 field exercises, including the installation of computers, Smart TVs, VTC equipment, VoIP and POTS phones, and the configuration of HSRP/GLBP redundancy, etherchannel, and SolarWinds.
+•	Managed equipment inventory account for 492 communications end-items worth $4,954,228.
 
-## EDUCATION
+### **Enlisted Marine, Sergeant, Technical Controller**,				Aug 2011 – Jan 2015 	
+#### 7th Communication Battalion, Okinawa, Japan.  San Diego and 29 Palms, CA
+•	Platoon Sergeant for SWAT Platoon (Switching, Wire, and Technical Control).
+•	Tested and troubleshoot complex technical problems with network, hardware, and software.
+•	Meritoriously promoted to Corporal and Sergeant.
+•	Over 70 hours community service across 20 events.
 
-### **PhD – Research Psychology (ABD)** 
-* Northcentral University, La Jolla, CA, Feb 2021, GPA 3.30
-* Dissertation:  Authentic and Transformational Leadership in the USMC (not finished)
+### College Adjunct Professor, Bellevue University				Aug 2010 - Apr 2012
+•	Face-to-face classes:  MIS, Accounting for IT Pros, E-Commerce.
 
-### **MBA – Dual emphases in Management Information Systems and Finance** 
-* Bellevue University, Bellevue, NE, August 2007, GPA 3.35 
+### Outside Sales Representative, All Copy Products				May 2008 – Jul 2009
+•	Geographical territory sales development:  South Fort Collins, CO.
+•	Client expense analysis for printing and equipment expenses, used for purchasing decisions.
 
-### **BA – Dual majors in Philosophy and Political Science** 
-* Concordia College, Moorhead, MN, May 2005, GPA 3.21  
+### Hotel General Manager, La Quinta Inn, Fort Collins, CO			Nov 2007 –May 2008
+•	Hired, trained, and managed front desk staff (6 people).  Ensured excellent customer service.
+
+### Accounts Payable, Logistics, Video King Gaming, Omaha, NE		Sept 2006 – Oct 2007
+•	Provided visibility and control to international freight operations, managed freight expenses, conducted freight analysis, and negotiated freight agreements.
+•	Standardized freight operations across two satellite locations and global distribution network.
+
+### A/P Specialist, A/R Clerk, GiftCertificates.com, Omaha, NE		Aug 2005 – Sept 2006
+•	Upgraded payables to electronic payments using direct deposit, wire transfers, and ACH.
+•	Expense Report Specialist:  Enhanced processes by standardizing forms and procedures.
+•	General ledger management (enhanced transparency by creating sub-accounts in the GL system for specific customer accounts); conducted month-end and year-end reconciliations.
+•	Process standardization, streamlining, and systems automation experience.
+
 
 ## PERSONAL SKILLS AND QUALIFICATIONS
-* Certifications and Training:  160 hours of CCNP-ENCOR/ENARSI training (2022), CCNA (2022), CompTIA Sec+ (2022), Project+ (v.5 Beta pending results), Network Plus (2016), 40 hours CISSP training, USMC Basic & Advanced Communications Officer Courses (12 months), 6 month TechCon Course (WAN connections), 3 month Basic Electronics Course.
-* Personal awards and recognitions:  2x Navy Commendation Medals, Presidential Unit Citation, NATO ribbon, 2 Meritorious Promotions, 3 Honor Graduate Awards, 4 Gung-Ho Awards, Certificate of Appreciation from SecDef, and the General Giorgi Mazniashvili Medal (fourth highest individual award in the Georgian Armed Forces honoring a servicemember’s leadership and contributions to Georgian national defense).
+* Certifications:  
+•	CCNA (2022)
+•	CompTIA Sec+ (2022), Project+ (pending beta test results)
+•	AZ-900 Microsoft Azure Fundamentals and AZ-104 Microsoft Azure Administrator Associate (pending completion of current MSSA course)
+•	Network Plus (expired 2016)
+
+* Formal IT Training:
+•	17 weeks of Microsoft Cloud and Server Administration – MSSA course (2022)
+•	160 hours of CCNP-ENCOR/ENARSI training (2022)
+•	6 months (virtual) Advanced Communication Officer Course.  Enterprise topics (2021)
+•	80 hours CCNA:  ICND 3 & 4 (2018)
+•	40 hours CISSP training (2017)
+•	6 months Basic Communication Officer Course.  Full range of communications (2016)
+•	80 hours Network Plus and CCNA: ICND 1 & 2 (2014)
+•	6 months Technical Controller Course (2012)
+•	3 months Basic Electronics Course (2012)
+
+* Military Awards:  2x Navy Commendation Medals, Presidential Unit Citation, NATO ribbon, 2 Meritorious Promotions, 3 Honor Graduate Awards, 4 Gung-Ho Awards, Certificate of Appreciation from SecDef, and the General Giorgi Mazniashvili Medal (fourth highest individual award in the Georgian Armed Forces honoring a servicemember’s leadership and contributions to Georgian national defense).
+
 * Hobbies:  Running, golf, hockey, gardening, home maintenance, and philosophy.
+
 * Personal Strengths:  Expert communicator, confident leader and speaker, highly motivated, and continuously striving for improvement and humility.
+
+Thank you for taking the time to learn more about me!
+Brenden “Dax” McDaniel
